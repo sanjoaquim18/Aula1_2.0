@@ -9,7 +9,7 @@ base no valor da hora trabalhada de R$ 15.00 e na quantidade de
         int hora_Trabalhada = 40;
         double salario = valor_Hora*hora_Trabalhada;
 
-        System.out.println("O salário de José será igual a:"+salario);
+        System.out.println("O salário de José será igual a: R$"+salario);
 
 
 
